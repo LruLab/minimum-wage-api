@@ -1,0 +1,15 @@
+extends:
+  - recommended
+
+apis:
+  core@v1:
+    root: ./doc/openapi.yaml
+
+
+theme:
+  openapi:
+    schemaExpansionLevel: 2
+    generateCodeSamples:
+      languages:
+        - lang: curl
+        - lang: Python
