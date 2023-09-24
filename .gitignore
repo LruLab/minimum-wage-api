@@ -1,0 +1,5 @@
+.vercel
+.venv
+.vscode
+raw_data
+requirements.txt
