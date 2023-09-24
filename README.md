@@ -1,5 +1,7 @@
 ## 最低賃金API
 
+[![Pytest](https://github.com/LruLab/minimum-wage-api/actions/workflows/pytest.yaml/badge.svg)](https://github.com/LruLab/minimum-wage-api/actions/workflows/pytest.yaml)
+
 日本の最低賃金(時給)を返却するAPI
 
 ## ドキュメント
