@@ -1,0 +1,6 @@
+.venv
+.python-version
+poetry.lock
+pyproject.toml
+
+raw_data
