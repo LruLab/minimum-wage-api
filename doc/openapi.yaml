@@ -1,9 +1,11 @@
 openapi: 3.1.0
 info:
   title: 最低賃金API
-  description: 日本の最低賃金を取得するAPIです
+  description: |
+    日本の最低賃金を取得するAPI
+
+    追加/変更要望, 不具合報告は[GitHub](https://github.com/LruLab/minimum-wage-api)まで
   contact: 
-    name: Source Code
     url: https://github.com/LruLab/minimum-wage-api
   version: 1.0.0
 servers:
@@ -17,10 +19,10 @@ paths:
         - in: query
           name: prefecture
           description: |
-            指定された都道府県の最低賃金情報のみを返却する
+            指定された都道府県の最低賃金情報を返却する  
+            未指定の場合は全ての都道府県の最低賃金情報を返却する
 
-            クエリとしては以下のいづれかを指定できる
-
+            クエリとしては以下のいづれかを指定できる  
             - 正式な都道府県名
               - ex. 東京都, 大阪府, 沖縄県
             - 「都」「府」「県」を除いた都道府県名
@@ -28,14 +30,14 @@ paths:
             - 都道府県の英名
               - ex. Tokyo, Osaka, Okinawa
 
-            未指定の場合は全ての都道府県の最低賃金情報を返却する
           schema:
             type: string
             example: 東京
         - in: query
           name: date
           description: |
-            指定された日付時点での最低賃金情報を返却する
+            指定された日付時点での最低賃金情報を返却する  
+            未指定の場合はリクエスト時点での最低賃金情報を返却する
 
             2002年10月頃以前のデータは含まれていないため, それ以前の日付を指定した場合はレスポンスは空配列となる
           schema:
