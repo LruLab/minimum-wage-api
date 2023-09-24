@@ -56,11 +56,7 @@ def prefecture_where(name: str):
 
 def date_where(date: d):
     # Date where clause
-    # Filter only last 2 years records
-    return (
-        (where.date_of_issue <= date.isoformat()) &
-        (where.date_of_issue >= d(date.year - 1, 1, 1).isoformat())
-    )
+    return (where.date_of_issue <= date.isoformat())
 
 
 def group_by_prefecture(records: list[dict]):
