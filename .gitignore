@@ -3,3 +3,4 @@
 .vscode
 raw_data
 requirements.txt
+__pycache__
