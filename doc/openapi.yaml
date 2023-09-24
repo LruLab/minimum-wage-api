@@ -2,6 +2,9 @@ openapi: 3.1.0
 info:
   title: 最低賃金API
   description: 日本の最低賃金を取得するAPIです
+  contact: 
+    name: Source Code
+    url: https://github.com/LruLab/minimum-wage-api
   version: 1.0.0
 servers:
   - url: https://minimum-wage-api.vercel.app/
