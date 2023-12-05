@@ -1,7 +1,11 @@
 {
   "routes": [
     {
-      "src": "/doc/.*",
+      "src": "/favicon.ico",
+      "dest": "/doc/favicon.ico"
+    },
+    {
+      "src": "/doc/?.*",
       "dest": "/doc/index.html"
     },
     {
