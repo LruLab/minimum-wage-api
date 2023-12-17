@@ -61,7 +61,7 @@ components:
       type: object
       properties:
         prefecture:
-          description: 都道府名
+          description: 都道府県名
           type: string
           enum:
             - 北海道
