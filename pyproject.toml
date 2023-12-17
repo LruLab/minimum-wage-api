@@ -10,6 +10,8 @@ python = "^3.9"
 fastapi = {extras = ["all"], version = "^0.103.1"}
 uvicorn = "^0.23.2"
 tinydb = "^4.8.0"
+argparse = "^1.4.0"
+jsonschema = "^4.20.0"
 
 
 [tool.poetry.group.dev.dependencies]
