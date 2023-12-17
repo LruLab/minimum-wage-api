@@ -1,0 +1,237 @@
+[
+  {
+    "prefecture": "北海道",
+    "wage": 861,
+    "date_of_issue": "2019-10-03"
+  },
+  {
+    "prefecture": "青森",
+    "wage": 793,
+    "date_of_issue": "2020-10-03"
+  },
+  {
+    "prefecture": "岩手",
+    "wage": 793,
+    "date_of_issue": "2020-10-03"
+  },
+  {
+    "prefecture": "宮城",
+    "wage": 825,
+    "date_of_issue": "2020-10-01"
+  },
+  {
+    "prefecture": "秋田",
+    "wage": 792,
+    "date_of_issue": "2020-10-01"
+  },
+  {
+    "prefecture": "山形",
+    "wage": 793,
+    "date_of_issue": "2020-10-03"
+  },
+  {
+    "prefecture": "福島",
+    "wage": 800,
+    "date_of_issue": "2020-10-02"
+  },
+  {
+    "prefecture": "茨城",
+    "wage": 851,
+    "date_of_issue": "2020-10-01"
+  },
+  {
+    "prefecture": "栃木",
+    "wage": 854,
+    "date_of_issue": "2020-10-01"
+  },
+  {
+    "prefecture": "群馬",
+    "wage": 837,
+    "date_of_issue": "2020-10-03"
+  },
+  {
+    "prefecture": "埼玉",
+    "wage": 928,
+    "date_of_issue": "2020-10-01"
+  },
+  {
+    "prefecture": "千葉",
+    "wage": 925,
+    "date_of_issue": "2020-10-01"
+  },
+  {
+    "prefecture": "東京",
+    "wage": 1013,
+    "date_of_issue": "2019-10-01"
+  },
+  {
+    "prefecture": "神奈川",
+    "wage": 1012,
+    "date_of_issue": "2020-10-01"
+  },
+  {
+    "prefecture": "新潟",
+    "wage": 831,
+    "date_of_issue": "2020-10-01"
+  },
+  {
+    "prefecture": "富山",
+    "wage": 849,
+    "date_of_issue": "2020-10-01"
+  },
+  {
+    "prefecture": "石川",
+    "wage": 833,
+    "date_of_issue": "2020-10-07"
+  },
+  {
+    "prefecture": "福井",
+    "wage": 830,
+    "date_of_issue": "2020-10-02"
+  },
+  {
+    "prefecture": "山梨",
+    "wage": 838,
+    "date_of_issue": "2020-10-09"
+  },
+  {
+    "prefecture": "長野",
+    "wage": 849,
+    "date_of_issue": "2020-10-01"
+  },
+  {
+    "prefecture": "岐阜",
+    "wage": 852,
+    "date_of_issue": "2020-10-01"
+  },
+  {
+    "prefecture": "静岡",
+    "wage": 885,
+    "date_of_issue": "2019-10-04"
+  },
+  {
+    "prefecture": "愛知",
+    "wage": 927,
+    "date_of_issue": "2020-10-01"
+  },
+  {
+    "prefecture": "三重",
+    "wage": 874,
+    "date_of_issue": "2020-10-01"
+  },
+  {
+    "prefecture": "滋賀",
+    "wage": 868,
+    "date_of_issue": "2020-10-01"
+  },
+  {
+    "prefecture": "京都",
+    "wage": 909,
+    "date_of_issue": "2019-10-01"
+  },
+  {
+    "prefecture": "大阪",
+    "wage": 964,
+    "date_of_issue": "2019-10-01"
+  },
+  {
+    "prefecture": "兵庫",
+    "wage": 900,
+    "date_of_issue": "2020-10-01"
+  },
+  {
+    "prefecture": "奈良",
+    "wage": 838,
+    "date_of_issue": "2020-10-01"
+  },
+  {
+    "prefecture": "和歌山",
+    "wage": 831,
+    "date_of_issue": "2020-10-01"
+  },
+  {
+    "prefecture": "鳥取",
+    "wage": 792,
+    "date_of_issue": "2020-10-02"
+  },
+  {
+    "prefecture": "島根",
+    "wage": 792,
+    "date_of_issue": "2020-10-01"
+  },
+  {
+    "prefecture": "岡山",
+    "wage": 834,
+    "date_of_issue": "2020-10-03"
+  },
+  {
+    "prefecture": "広島",
+    "wage": 871,
+    "date_of_issue": "2019-10-01"
+  },
+  {
+    "prefecture": "山口",
+    "wage": 829,
+    "date_of_issue": "2019-10-05"
+  },
+  {
+    "prefecture": "徳島",
+    "wage": 796,
+    "date_of_issue": "2020-10-04"
+  },
+  {
+    "prefecture": "香川",
+    "wage": 820,
+    "date_of_issue": "2020-10-01"
+  },
+  {
+    "prefecture": "愛媛",
+    "wage": 793,
+    "date_of_issue": "2020-10-03"
+  },
+  {
+    "prefecture": "高知",
+    "wage": 792,
+    "date_of_issue": "2020-10-03"
+  },
+  {
+    "prefecture": "福岡",
+    "wage": 842,
+    "date_of_issue": "2020-10-01"
+  },
+  {
+    "prefecture": "佐賀",
+    "wage": 792,
+    "date_of_issue": "2020-10-02"
+  },
+  {
+    "prefecture": "長崎",
+    "wage": 793,
+    "date_of_issue": "2020-10-03"
+  },
+  {
+    "prefecture": "熊本",
+    "wage": 793,
+    "date_of_issue": "2020-10-01"
+  },
+  {
+    "prefecture": "大分",
+    "wage": 792,
+    "date_of_issue": "2020-10-01"
+  },
+  {
+    "prefecture": "宮崎",
+    "wage": 793,
+    "date_of_issue": "2020-10-03"
+  },
+  {
+    "prefecture": "鹿児島",
+    "wage": 793,
+    "date_of_issue": "2020-10-03"
+  },
+  {
+    "prefecture": "沖縄",
+    "wage": 792,
+    "date_of_issue": "2020-10-03"
+  }
+]

@@ -1,0 +1,237 @@
+[
+  {
+    "prefecture": "北海道",
+    "wage": 748,
+    "date_of_issue": "2014-10-08"
+  },
+  {
+    "prefecture": "青森",
+    "wage": 679,
+    "date_of_issue": "2014-10-24"
+  },
+  {
+    "prefecture": "岩手",
+    "wage": 678,
+    "date_of_issue": "2014-10-04"
+  },
+  {
+    "prefecture": "宮城",
+    "wage": 710,
+    "date_of_issue": "2014-10-16"
+  },
+  {
+    "prefecture": "秋田",
+    "wage": 679,
+    "date_of_issue": "2014-10-05"
+  },
+  {
+    "prefecture": "山形",
+    "wage": 680,
+    "date_of_issue": "2014-10-17"
+  },
+  {
+    "prefecture": "福島",
+    "wage": 689,
+    "date_of_issue": "2014-10-04"
+  },
+  {
+    "prefecture": "茨城",
+    "wage": 729,
+    "date_of_issue": "2014-10-04"
+  },
+  {
+    "prefecture": "栃木",
+    "wage": 733,
+    "date_of_issue": "2014-10-01"
+  },
+  {
+    "prefecture": "群馬",
+    "wage": 721,
+    "date_of_issue": "2014-10-05"
+  },
+  {
+    "prefecture": "埼玉",
+    "wage": 802,
+    "date_of_issue": "2014-10-01"
+  },
+  {
+    "prefecture": "千葉",
+    "wage": 798,
+    "date_of_issue": "2014-10-01"
+  },
+  {
+    "prefecture": "東京",
+    "wage": 888,
+    "date_of_issue": "2014-10-01"
+  },
+  {
+    "prefecture": "神奈川",
+    "wage": 887,
+    "date_of_issue": "2014-10-01"
+  },
+  {
+    "prefecture": "新潟",
+    "wage": 715,
+    "date_of_issue": "2014-10-04"
+  },
+  {
+    "prefecture": "富山",
+    "wage": 728,
+    "date_of_issue": "2014-10-01"
+  },
+  {
+    "prefecture": "石川",
+    "wage": 718,
+    "date_of_issue": "2014-10-05"
+  },
+  {
+    "prefecture": "福井",
+    "wage": 716,
+    "date_of_issue": "2014-10-04"
+  },
+  {
+    "prefecture": "山梨",
+    "wage": 721,
+    "date_of_issue": "2014-10-01"
+  },
+  {
+    "prefecture": "長野",
+    "wage": 728,
+    "date_of_issue": "2014-10-01"
+  },
+  {
+    "prefecture": "岐阜",
+    "wage": 738,
+    "date_of_issue": "2014-10-01"
+  },
+  {
+    "prefecture": "静岡",
+    "wage": 765,
+    "date_of_issue": "2014-10-05"
+  },
+  {
+    "prefecture": "愛知",
+    "wage": 800,
+    "date_of_issue": "2014-10-01"
+  },
+  {
+    "prefecture": "三重",
+    "wage": 753,
+    "date_of_issue": "2014-10-01"
+  },
+  {
+    "prefecture": "滋賀",
+    "wage": 746,
+    "date_of_issue": "2014-10-09"
+  },
+  {
+    "prefecture": "京都",
+    "wage": 789,
+    "date_of_issue": "2014-10-22"
+  },
+  {
+    "prefecture": "大阪",
+    "wage": 838,
+    "date_of_issue": "2014-10-05"
+  },
+  {
+    "prefecture": "兵庫",
+    "wage": 776,
+    "date_of_issue": "2014-10-01"
+  },
+  {
+    "prefecture": "奈良",
+    "wage": 724,
+    "date_of_issue": "2014-10-03"
+  },
+  {
+    "prefecture": "和歌山",
+    "wage": 715,
+    "date_of_issue": "2014-10-17"
+  },
+  {
+    "prefecture": "鳥取",
+    "wage": 677,
+    "date_of_issue": "2014-10-08"
+  },
+  {
+    "prefecture": "島根",
+    "wage": 679,
+    "date_of_issue": "2014-10-05"
+  },
+  {
+    "prefecture": "岡山",
+    "wage": 719,
+    "date_of_issue": "2014-10-05"
+  },
+  {
+    "prefecture": "広島",
+    "wage": 750,
+    "date_of_issue": "2014-10-01"
+  },
+  {
+    "prefecture": "山口",
+    "wage": 715,
+    "date_of_issue": "2014-10-01"
+  },
+  {
+    "prefecture": "徳島",
+    "wage": 679,
+    "date_of_issue": "2014-10-01"
+  },
+  {
+    "prefecture": "香川",
+    "wage": 702,
+    "date_of_issue": "2014-10-01"
+  },
+  {
+    "prefecture": "愛媛",
+    "wage": 680,
+    "date_of_issue": "2014-10-12"
+  },
+  {
+    "prefecture": "高知",
+    "wage": 677,
+    "date_of_issue": "2014-10-26"
+  },
+  {
+    "prefecture": "福岡",
+    "wage": 727,
+    "date_of_issue": "2014-10-05"
+  },
+  {
+    "prefecture": "佐賀",
+    "wage": 678,
+    "date_of_issue": "2014-10-04"
+  },
+  {
+    "prefecture": "長崎",
+    "wage": 677,
+    "date_of_issue": "2014-10-01"
+  },
+  {
+    "prefecture": "熊本",
+    "wage": 677,
+    "date_of_issue": "2014-10-01"
+  },
+  {
+    "prefecture": "大分",
+    "wage": 677,
+    "date_of_issue": "2014-10-04"
+  },
+  {
+    "prefecture": "宮崎",
+    "wage": 677,
+    "date_of_issue": "2014-10-16"
+  },
+  {
+    "prefecture": "鹿児島",
+    "wage": 678,
+    "date_of_issue": "2014-10-19"
+  },
+  {
+    "prefecture": "沖縄",
+    "wage": 677,
+    "date_of_issue": "2014-10-24"
+  }
+]

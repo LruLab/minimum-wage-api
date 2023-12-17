@@ -1,0 +1,237 @@
+[
+  {
+    "prefecture": "北海道",
+    "wage": 835,
+    "date_of_issue": "2018-10-01"
+  },
+  {
+    "prefecture": "青森",
+    "wage": 762,
+    "date_of_issue": "2018-10-04"
+  },
+  {
+    "prefecture": "岩手",
+    "wage": 762,
+    "date_of_issue": "2018-10-01"
+  },
+  {
+    "prefecture": "宮城",
+    "wage": 798,
+    "date_of_issue": "2018-10-01"
+  },
+  {
+    "prefecture": "秋田",
+    "wage": 762,
+    "date_of_issue": "2018-10-01"
+  },
+  {
+    "prefecture": "山形",
+    "wage": 763,
+    "date_of_issue": "2018-10-01"
+  },
+  {
+    "prefecture": "福島",
+    "wage": 772,
+    "date_of_issue": "2018-10-01"
+  },
+  {
+    "prefecture": "茨城",
+    "wage": 822,
+    "date_of_issue": "2018-10-01"
+  },
+  {
+    "prefecture": "栃木",
+    "wage": 826,
+    "date_of_issue": "2018-10-01"
+  },
+  {
+    "prefecture": "群馬",
+    "wage": 809,
+    "date_of_issue": "2018-10-06"
+  },
+  {
+    "prefecture": "埼玉",
+    "wage": 898,
+    "date_of_issue": "2018-10-01"
+  },
+  {
+    "prefecture": "千葉",
+    "wage": 895,
+    "date_of_issue": "2018-10-01"
+  },
+  {
+    "prefecture": "東京",
+    "wage": 985,
+    "date_of_issue": "2018-10-01"
+  },
+  {
+    "prefecture": "神奈川",
+    "wage": 983,
+    "date_of_issue": "2018-10-01"
+  },
+  {
+    "prefecture": "新潟",
+    "wage": 803,
+    "date_of_issue": "2018-10-01"
+  },
+  {
+    "prefecture": "富山",
+    "wage": 821,
+    "date_of_issue": "2018-10-01"
+  },
+  {
+    "prefecture": "石川",
+    "wage": 806,
+    "date_of_issue": "2018-10-01"
+  },
+  {
+    "prefecture": "福井",
+    "wage": 803,
+    "date_of_issue": "2018-10-01"
+  },
+  {
+    "prefecture": "山梨",
+    "wage": 810,
+    "date_of_issue": "2018-10-03"
+  },
+  {
+    "prefecture": "長野",
+    "wage": 821,
+    "date_of_issue": "2018-10-01"
+  },
+  {
+    "prefecture": "岐阜",
+    "wage": 825,
+    "date_of_issue": "2018-10-01"
+  },
+  {
+    "prefecture": "静岡",
+    "wage": 858,
+    "date_of_issue": "2018-10-03"
+  },
+  {
+    "prefecture": "愛知",
+    "wage": 898,
+    "date_of_issue": "2018-10-01"
+  },
+  {
+    "prefecture": "三重",
+    "wage": 846,
+    "date_of_issue": "2018-10-01"
+  },
+  {
+    "prefecture": "滋賀",
+    "wage": 839,
+    "date_of_issue": "2018-10-01"
+  },
+  {
+    "prefecture": "京都",
+    "wage": 882,
+    "date_of_issue": "2018-10-01"
+  },
+  {
+    "prefecture": "大阪",
+    "wage": 936,
+    "date_of_issue": "2018-10-01"
+  },
+  {
+    "prefecture": "兵庫",
+    "wage": 871,
+    "date_of_issue": "2018-10-01"
+  },
+  {
+    "prefecture": "奈良",
+    "wage": 811,
+    "date_of_issue": "2018-10-04"
+  },
+  {
+    "prefecture": "和歌山",
+    "wage": 803,
+    "date_of_issue": "2018-10-01"
+  },
+  {
+    "prefecture": "鳥取",
+    "wage": 762,
+    "date_of_issue": "2018-10-05"
+  },
+  {
+    "prefecture": "島根",
+    "wage": 764,
+    "date_of_issue": "2018-10-01"
+  },
+  {
+    "prefecture": "岡山",
+    "wage": 807,
+    "date_of_issue": "2018-10-03"
+  },
+  {
+    "prefecture": "広島",
+    "wage": 844,
+    "date_of_issue": "2018-10-01"
+  },
+  {
+    "prefecture": "山口",
+    "wage": 802,
+    "date_of_issue": "2018-10-01"
+  },
+  {
+    "prefecture": "徳島",
+    "wage": 766,
+    "date_of_issue": "2018-10-01"
+  },
+  {
+    "prefecture": "香川",
+    "wage": 792,
+    "date_of_issue": "2018-10-01"
+  },
+  {
+    "prefecture": "愛媛",
+    "wage": 764,
+    "date_of_issue": "2018-10-01"
+  },
+  {
+    "prefecture": "高知",
+    "wage": 762,
+    "date_of_issue": "2018-10-05"
+  },
+  {
+    "prefecture": "福岡",
+    "wage": 814,
+    "date_of_issue": "2018-10-01"
+  },
+  {
+    "prefecture": "佐賀",
+    "wage": 762,
+    "date_of_issue": "2018-10-04"
+  },
+  {
+    "prefecture": "長崎",
+    "wage": 762,
+    "date_of_issue": "2018-10-06"
+  },
+  {
+    "prefecture": "熊本",
+    "wage": 762,
+    "date_of_issue": "2018-10-01"
+  },
+  {
+    "prefecture": "大分",
+    "wage": 762,
+    "date_of_issue": "2018-10-01"
+  },
+  {
+    "prefecture": "宮崎",
+    "wage": 762,
+    "date_of_issue": "2018-10-05"
+  },
+  {
+    "prefecture": "鹿児島",
+    "wage": 761,
+    "date_of_issue": "2018-10-01"
+  },
+  {
+    "prefecture": "沖縄",
+    "wage": 762,
+    "date_of_issue": "2018-10-03"
+  }
+]

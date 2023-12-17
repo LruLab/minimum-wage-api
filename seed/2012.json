@@ -1,0 +1,237 @@
+[
+  {
+    "prefecture": "北海道",
+    "wage": 719,
+    "date_of_issue": "2012-10-18"
+  },
+  {
+    "prefecture": "青森",
+    "wage": 654,
+    "date_of_issue": "2012-10-12"
+  },
+  {
+    "prefecture": "岩手",
+    "wage": 653,
+    "date_of_issue": "2012-10-20"
+  },
+  {
+    "prefecture": "宮城",
+    "wage": 685,
+    "date_of_issue": "2012-10-19"
+  },
+  {
+    "prefecture": "秋田",
+    "wage": 654,
+    "date_of_issue": "2012-10-13"
+  },
+  {
+    "prefecture": "山形",
+    "wage": 654,
+    "date_of_issue": "2012-10-24"
+  },
+  {
+    "prefecture": "福島",
+    "wage": 664,
+    "date_of_issue": "2012-10-01"
+  },
+  {
+    "prefecture": "茨城",
+    "wage": 699,
+    "date_of_issue": "2012-10-06"
+  },
+  {
+    "prefecture": "栃木",
+    "wage": 705,
+    "date_of_issue": "2012-10-01"
+  },
+  {
+    "prefecture": "群馬",
+    "wage": 696,
+    "date_of_issue": "2012-10-10"
+  },
+  {
+    "prefecture": "埼玉",
+    "wage": 771,
+    "date_of_issue": "2012-10-01"
+  },
+  {
+    "prefecture": "千葉",
+    "wage": 756,
+    "date_of_issue": "2012-10-01"
+  },
+  {
+    "prefecture": "東京",
+    "wage": 850,
+    "date_of_issue": "2012-10-01"
+  },
+  {
+    "prefecture": "神奈川",
+    "wage": 849,
+    "date_of_issue": "2012-10-01"
+  },
+  {
+    "prefecture": "新潟",
+    "wage": 689,
+    "date_of_issue": "2012-10-05"
+  },
+  {
+    "prefecture": "富山",
+    "wage": 700,
+    "date_of_issue": "2012-11-04"
+  },
+  {
+    "prefecture": "石川",
+    "wage": 693,
+    "date_of_issue": "2012-10-06"
+  },
+  {
+    "prefecture": "福井",
+    "wage": 690,
+    "date_of_issue": "2012-10-06"
+  },
+  {
+    "prefecture": "山梨",
+    "wage": 695,
+    "date_of_issue": "2012-10-01"
+  },
+  {
+    "prefecture": "長野",
+    "wage": 700,
+    "date_of_issue": "2012-10-01"
+  },
+  {
+    "prefecture": "岐阜",
+    "wage": 713,
+    "date_of_issue": "2012-10-01"
+  },
+  {
+    "prefecture": "静岡",
+    "wage": 735,
+    "date_of_issue": "2012-10-12"
+  },
+  {
+    "prefecture": "愛知",
+    "wage": 758,
+    "date_of_issue": "2012-10-01"
+  },
+  {
+    "prefecture": "三重",
+    "wage": 724,
+    "date_of_issue": "2012-09-30"
+  },
+  {
+    "prefecture": "滋賀",
+    "wage": 716,
+    "date_of_issue": "2012-10-06"
+  },
+  {
+    "prefecture": "京都",
+    "wage": 759,
+    "date_of_issue": "2012-10-14"
+  },
+  {
+    "prefecture": "大阪",
+    "wage": 800,
+    "date_of_issue": "2012-09-30"
+  },
+  {
+    "prefecture": "兵庫",
+    "wage": 749,
+    "date_of_issue": "2012-10-01"
+  },
+  {
+    "prefecture": "奈良",
+    "wage": 699,
+    "date_of_issue": "2012-10-06"
+  },
+  {
+    "prefecture": "和歌山",
+    "wage": 690,
+    "date_of_issue": "2012-10-01"
+  },
+  {
+    "prefecture": "鳥取",
+    "wage": 653,
+    "date_of_issue": "2012-10-20"
+  },
+  {
+    "prefecture": "島根",
+    "wage": 652,
+    "date_of_issue": "2012-10-14"
+  },
+  {
+    "prefecture": "岡山",
+    "wage": 691,
+    "date_of_issue": "2012-10-24"
+  },
+  {
+    "prefecture": "広島",
+    "wage": 719,
+    "date_of_issue": "2012-10-01"
+  },
+  {
+    "prefecture": "山口",
+    "wage": 690,
+    "date_of_issue": "2012-10-01"
+  },
+  {
+    "prefecture": "徳島",
+    "wage": 654,
+    "date_of_issue": "2012-10-19"
+  },
+  {
+    "prefecture": "香川",
+    "wage": 674,
+    "date_of_issue": "2012-10-05"
+  },
+  {
+    "prefecture": "愛媛",
+    "wage": 654,
+    "date_of_issue": "2012-10-24"
+  },
+  {
+    "prefecture": "高知",
+    "wage": 652,
+    "date_of_issue": "2012-10-26"
+  },
+  {
+    "prefecture": "福岡",
+    "wage": 701,
+    "date_of_issue": "2012-10-13"
+  },
+  {
+    "prefecture": "佐賀",
+    "wage": 653,
+    "date_of_issue": "2012-10-21"
+  },
+  {
+    "prefecture": "長崎",
+    "wage": 653,
+    "date_of_issue": "2012-10-24"
+  },
+  {
+    "prefecture": "熊本",
+    "wage": 653,
+    "date_of_issue": "2012-10-01"
+  },
+  {
+    "prefecture": "大分",
+    "wage": 653,
+    "date_of_issue": "2012-10-04"
+  },
+  {
+    "prefecture": "宮崎",
+    "wage": 653,
+    "date_of_issue": "2012-10-26"
+  },
+  {
+    "prefecture": "鹿児島",
+    "wage": 654,
+    "date_of_issue": "2012-10-13"
+  },
+  {
+    "prefecture": "沖縄",
+    "wage": 653,
+    "date_of_issue": "2012-10-25"
+  }
+]

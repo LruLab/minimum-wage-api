@@ -1,0 +1,237 @@
+[
+  {
+    "prefecture": "北海道",
+    "wage": 641,
+    "date_of_issue": "2005-10-01"
+  },
+  {
+    "prefecture": "青森",
+    "wage": 608,
+    "date_of_issue": "2005-10-01"
+  },
+  {
+    "prefecture": "岩手",
+    "wage": 608,
+    "date_of_issue": "2005-10-01"
+  },
+  {
+    "prefecture": "宮城",
+    "wage": 623,
+    "date_of_issue": "2005-10-01"
+  },
+  {
+    "prefecture": "秋田",
+    "wage": 608,
+    "date_of_issue": "2005-09-30"
+  },
+  {
+    "prefecture": "山形",
+    "wage": 610,
+    "date_of_issue": "2005-10-01"
+  },
+  {
+    "prefecture": "福島",
+    "wage": 614,
+    "date_of_issue": "2005-10-01"
+  },
+  {
+    "prefecture": "茨城",
+    "wage": 651,
+    "date_of_issue": "2005-10-01"
+  },
+  {
+    "prefecture": "栃木",
+    "wage": 652,
+    "date_of_issue": "2005-10-01"
+  },
+  {
+    "prefecture": "群馬",
+    "wage": 649,
+    "date_of_issue": "2005-10-01"
+  },
+  {
+    "prefecture": "埼玉",
+    "wage": 682,
+    "date_of_issue": "2005-10-01"
+  },
+  {
+    "prefecture": "千葉",
+    "wage": 682,
+    "date_of_issue": "2005-10-04"
+  },
+  {
+    "prefecture": "東京",
+    "wage": 714,
+    "date_of_issue": "2005-10-01"
+  },
+  {
+    "prefecture": "神奈川",
+    "wage": 712,
+    "date_of_issue": "2005-10-01"
+  },
+  {
+    "prefecture": "新潟",
+    "wage": 645,
+    "date_of_issue": "2005-09-30"
+  },
+  {
+    "prefecture": "富山",
+    "wage": 648,
+    "date_of_issue": "2005-10-01"
+  },
+  {
+    "prefecture": "石川",
+    "wage": 649,
+    "date_of_issue": "2005-10-01"
+  },
+  {
+    "prefecture": "福井",
+    "wage": 645,
+    "date_of_issue": "2005-10-01"
+  },
+  {
+    "prefecture": "山梨",
+    "wage": 651,
+    "date_of_issue": "2005-10-01"
+  },
+  {
+    "prefecture": "長野",
+    "wage": 650,
+    "date_of_issue": "2005-10-01"
+  },
+  {
+    "prefecture": "岐阜",
+    "wage": 671,
+    "date_of_issue": "2005-10-01"
+  },
+  {
+    "prefecture": "静岡",
+    "wage": 677,
+    "date_of_issue": "2005-10-01"
+  },
+  {
+    "prefecture": "愛知",
+    "wage": 688,
+    "date_of_issue": "2005-10-01"
+  },
+  {
+    "prefecture": "三重",
+    "wage": 671,
+    "date_of_issue": "2005-10-01"
+  },
+  {
+    "prefecture": "滋賀",
+    "wage": 657,
+    "date_of_issue": "2005-10-01"
+  },
+  {
+    "prefecture": "京都",
+    "wage": 682,
+    "date_of_issue": "2005-10-01"
+  },
+  {
+    "prefecture": "大阪",
+    "wage": 708,
+    "date_of_issue": "2005-10-01"
+  },
+  {
+    "prefecture": "兵庫",
+    "wage": 679,
+    "date_of_issue": "2005-09-30"
+  },
+  {
+    "prefecture": "奈良",
+    "wage": 652,
+    "date_of_issue": "2005-10-01"
+  },
+  {
+    "prefecture": "和歌山",
+    "wage": 649,
+    "date_of_issue": "2005-10-01"
+  },
+  {
+    "prefecture": "鳥取",
+    "wage": 612,
+    "date_of_issue": "2005-10-07"
+  },
+  {
+    "prefecture": "島根",
+    "wage": 612,
+    "date_of_issue": "2005-10-01"
+  },
+  {
+    "prefecture": "岡山",
+    "wage": 644,
+    "date_of_issue": "2005-10-01"
+  },
+  {
+    "prefecture": "広島",
+    "wage": 649,
+    "date_of_issue": "2005-10-01"
+  },
+  {
+    "prefecture": "山口",
+    "wage": 642,
+    "date_of_issue": "2005-10-01"
+  },
+  {
+    "prefecture": "徳島",
+    "wage": 615,
+    "date_of_issue": "2005-10-01"
+  },
+  {
+    "prefecture": "香川",
+    "wage": 625,
+    "date_of_issue": "2005-10-01"
+  },
+  {
+    "prefecture": "愛媛",
+    "wage": 614,
+    "date_of_issue": "2005-10-01"
+  },
+  {
+    "prefecture": "高知",
+    "wage": 613,
+    "date_of_issue": "2005-10-01"
+  },
+  {
+    "prefecture": "福岡",
+    "wage": 648,
+    "date_of_issue": "2005-10-01"
+  },
+  {
+    "prefecture": "佐賀",
+    "wage": 608,
+    "date_of_issue": "2005-10-01"
+  },
+  {
+    "prefecture": "長崎",
+    "wage": 608,
+    "date_of_issue": "2005-10-01"
+  },
+  {
+    "prefecture": "熊本",
+    "wage": 609,
+    "date_of_issue": "2005-10-01"
+  },
+  {
+    "prefecture": "大分",
+    "wage": 610,
+    "date_of_issue": "2005-10-01"
+  },
+  {
+    "prefecture": "宮崎",
+    "wage": 608,
+    "date_of_issue": "2005-10-01"
+  },
+  {
+    "prefecture": "鹿児島",
+    "wage": 608,
+    "date_of_issue": "2005-10-01"
+  },
+  {
+    "prefecture": "沖縄",
+    "wage": 608,
+    "date_of_issue": "2005-10-01"
+  }
+]
