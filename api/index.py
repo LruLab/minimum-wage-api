@@ -1,10 +1,15 @@
 from fastapi import FastAPI
 from tinydb import TinyDB, Query
 
+import os
+import time
 from os import path
 from datetime import date as d
 from typing import Union
 from itertools import groupby
+
+os.environ["TZ"] = "Asia/Tokyo"
+time.tzset()
 
 # Schema:
 # {
