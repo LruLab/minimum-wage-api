@@ -3,6 +3,11 @@ name: Generate Docs
 on:
   push:
     branches: [main]
+
+  # TODO: Remove after testing
+  pull_request:
+    types: [opened, reopened, synchronize]
+
   workflow_dispatch:
 
 permissions:
