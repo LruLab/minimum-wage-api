@@ -1,0 +1,47 @@
+name: Generate Docs
+
+on:
+  push:
+    branches: [main]
+
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      - name: Set up NodeJS
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Build ReDoc
+        run: |
+          npx @redocly/cli build-docs -t template.hbs -o doc/index.html
+
+      - name: Upload Docs
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: doc
+
+      - id: deployment
+        name: Deploy Docs
+        uses: actions/deploy-pages@v4
