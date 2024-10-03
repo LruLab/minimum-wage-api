@@ -4924,6 +4924,241 @@
       "prefecture": "沖縄",
       "wage": 896,
       "date_of_issue": "2023-10-08"
+    },
+    "986": {
+      "prefecture": "北海道",
+      "wage": 1010,
+      "date_of_issue": "2024-10-01"
+    },
+    "987": {
+      "prefecture": "青森",
+      "wage": 953,
+      "date_of_issue": "2024-10-05"
+    },
+    "988": {
+      "prefecture": "岩手",
+      "wage": 952,
+      "date_of_issue": "2024-10-27"
+    },
+    "989": {
+      "prefecture": "宮城",
+      "wage": 973,
+      "date_of_issue": "2024-10-01"
+    },
+    "990": {
+      "prefecture": "秋田",
+      "wage": 951,
+      "date_of_issue": "2024-10-01"
+    },
+    "991": {
+      "prefecture": "山形",
+      "wage": 955,
+      "date_of_issue": "2024-10-19"
+    },
+    "992": {
+      "prefecture": "福島",
+      "wage": 955,
+      "date_of_issue": "2024-10-05"
+    },
+    "993": {
+      "prefecture": "茨城",
+      "wage": 1005,
+      "date_of_issue": "2024-10-01"
+    },
+    "994": {
+      "prefecture": "栃木",
+      "wage": 1004,
+      "date_of_issue": "2024-10-01"
+    },
+    "995": {
+      "prefecture": "群馬",
+      "wage": 985,
+      "date_of_issue": "2024-10-04"
+    },
+    "996": {
+      "prefecture": "埼玉",
+      "wage": 1078,
+      "date_of_issue": "2024-10-01"
+    },
+    "997": {
+      "prefecture": "千葉",
+      "wage": 1076,
+      "date_of_issue": "2024-10-01"
+    },
+    "998": {
+      "prefecture": "東京",
+      "wage": 1163,
+      "date_of_issue": "2024-10-01"
+    },
+    "999": {
+      "prefecture": "神奈川",
+      "wage": 1162,
+      "date_of_issue": "2024-10-01"
+    },
+    "1000": {
+      "prefecture": "新潟",
+      "wage": 985,
+      "date_of_issue": "2024-10-01"
+    },
+    "1001": {
+      "prefecture": "富山",
+      "wage": 998,
+      "date_of_issue": "2024-10-01"
+    },
+    "1002": {
+      "prefecture": "石川",
+      "wage": 984,
+      "date_of_issue": "2024-10-05"
+    },
+    "1003": {
+      "prefecture": "福井",
+      "wage": 984,
+      "date_of_issue": "2024-10-05"
+    },
+    "1004": {
+      "prefecture": "山梨",
+      "wage": 988,
+      "date_of_issue": "2024-10-01"
+    },
+    "1005": {
+      "prefecture": "長野",
+      "wage": 998,
+      "date_of_issue": "2024-10-01"
+    },
+    "1006": {
+      "prefecture": "岐阜",
+      "wage": 1001,
+      "date_of_issue": "2024-10-01"
+    },
+    "1007": {
+      "prefecture": "静岡",
+      "wage": 1034,
+      "date_of_issue": "2024-10-01"
+    },
+    "1008": {
+      "prefecture": "愛知",
+      "wage": 1077,
+      "date_of_issue": "2024-10-01"
+    },
+    "1009": {
+      "prefecture": "三重",
+      "wage": 1023,
+      "date_of_issue": "2024-10-01"
+    },
+    "1010": {
+      "prefecture": "滋賀",
+      "wage": 1017,
+      "date_of_issue": "2024-10-01"
+    },
+    "1011": {
+      "prefecture": "京都",
+      "wage": 1058,
+      "date_of_issue": "2024-10-01"
+    },
+    "1012": {
+      "prefecture": "大阪",
+      "wage": 1114,
+      "date_of_issue": "2024-10-01"
+    },
+    "1013": {
+      "prefecture": "兵庫",
+      "wage": 1052,
+      "date_of_issue": "2024-10-01"
+    },
+    "1014": {
+      "prefecture": "奈良",
+      "wage": 986,
+      "date_of_issue": "2024-10-01"
+    },
+    "1015": {
+      "prefecture": "和歌山",
+      "wage": 980,
+      "date_of_issue": "2024-10-01"
+    },
+    "1016": {
+      "prefecture": "鳥取",
+      "wage": 957,
+      "date_of_issue": "2024-10-05"
+    },
+    "1017": {
+      "prefecture": "島根",
+      "wage": 962,
+      "date_of_issue": "2024-10-12"
+    },
+    "1018": {
+      "prefecture": "岡山",
+      "wage": 982,
+      "date_of_issue": "2024-10-02"
+    },
+    "1019": {
+      "prefecture": "広島",
+      "wage": 1020,
+      "date_of_issue": "2024-10-01"
+    },
+    "1020": {
+      "prefecture": "山口",
+      "wage": 979,
+      "date_of_issue": "2024-10-01"
+    },
+    "1021": {
+      "prefecture": "徳島",
+      "wage": 980,
+      "date_of_issue": "2024-11-01"
+    },
+    "1022": {
+      "prefecture": "香川",
+      "wage": 970,
+      "date_of_issue": "2024-10-02"
+    },
+    "1023": {
+      "prefecture": "愛媛",
+      "wage": 956,
+      "date_of_issue": "2024-10-13"
+    },
+    "1024": {
+      "prefecture": "高知",
+      "wage": 952,
+      "date_of_issue": "2024-10-09"
+    },
+    "1025": {
+      "prefecture": "福岡",
+      "wage": 992,
+      "date_of_issue": "2024-10-05"
+    },
+    "1026": {
+      "prefecture": "佐賀",
+      "wage": 956,
+      "date_of_issue": "2024-10-17"
+    },
+    "1027": {
+      "prefecture": "長崎",
+      "wage": 953,
+      "date_of_issue": "2024-10-12"
+    },
+    "1028": {
+      "prefecture": "熊本",
+      "wage": 952,
+      "date_of_issue": "2024-10-05"
+    },
+    "1029": {
+      "prefecture": "大分",
+      "wage": 954,
+      "date_of_issue": "2024-10-05"
+    },
+    "1030": {
+      "prefecture": "宮崎",
+      "wage": 952,
+      "date_of_issue": "2024-10-05"
+    },
+    "1031": {
+      "prefecture": "鹿児島",
+      "wage": 953,
+      "date_of_issue": "2024-10-05"
+    },
+    "1032": {
+      "prefecture": "沖縄",
+      "wage": 952,
+      "date_of_issue": "2024-10-09"
     }
   }
 }
