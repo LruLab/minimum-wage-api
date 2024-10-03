@@ -5101,56 +5101,61 @@
       "date_of_issue": "2024-10-01"
     },
     "1021": {
+      "prefecture": "徳島",
+      "wage": 980,
+      "date_of_issue": "2024-11-01"
+    },
+    "1022": {
       "prefecture": "香川",
       "wage": 970,
       "date_of_issue": "2024-10-02"
     },
-    "1022": {
+    "1023": {
       "prefecture": "愛媛",
       "wage": 956,
       "date_of_issue": "2024-10-13"
     },
-    "1023": {
+    "1024": {
       "prefecture": "高知",
       "wage": 952,
       "date_of_issue": "2024-10-09"
     },
-    "1024": {
+    "1025": {
       "prefecture": "福岡",
       "wage": 992,
       "date_of_issue": "2024-10-05"
     },
-    "1025": {
+    "1026": {
       "prefecture": "佐賀",
       "wage": 956,
       "date_of_issue": "2024-10-17"
     },
-    "1026": {
+    "1027": {
       "prefecture": "長崎",
       "wage": 953,
       "date_of_issue": "2024-10-12"
     },
-    "1027": {
+    "1028": {
       "prefecture": "熊本",
       "wage": 952,
       "date_of_issue": "2024-10-05"
     },
-    "1028": {
+    "1029": {
       "prefecture": "大分",
       "wage": 954,
       "date_of_issue": "2024-10-05"
     },
-    "1029": {
+    "1030": {
       "prefecture": "宮崎",
       "wage": 952,
       "date_of_issue": "2024-10-05"
     },
-    "1030": {
+    "1031": {
       "prefecture": "鹿児島",
       "wage": 953,
       "date_of_issue": "2024-10-05"
     },
-    "1031": {
+    "1032": {
       "prefecture": "沖縄",
       "wage": 952,
       "date_of_issue": "2024-10-09"

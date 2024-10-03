@@ -174,11 +174,11 @@
     "wage": 979,
     "date_of_issue": "2024-10-01"
   },
-
-
-
-
-
+  {
+    "prefecture": "徳島",
+    "wage": 980,
+    "date_of_issue": "2024-11-01"
+  },
   {
     "prefecture": "香川",
     "wage": 970,
