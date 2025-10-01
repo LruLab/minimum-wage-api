@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "minimum-wage-api"
-version = "0.1.0"
+version = "1.0.2025"
 description = ""
 authors = ["KL-Lru <kilattoeruru@outlook.jp>"]
 readme = "README.md"
