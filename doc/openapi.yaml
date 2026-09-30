@@ -7,7 +7,7 @@ info:
     追加/変更要望, 不具合報告は[GitHub](https://github.com/LruLab/minimum-wage-api)まで
   contact:
     url: https://github.com/LruLab/minimum-wage-api
-  version: 1.0.2025
+  version: 1.0.2026
 servers:
   - url: https://minimum-wage-api.vercel.app/
 paths:
